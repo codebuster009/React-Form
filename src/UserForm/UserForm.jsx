@@ -275,4 +275,31 @@ const UserForm = () => {
   );
 };
 
-export default UserForm;
+// export default UserForm;
+// <div class="container flex:column" >
+
+// <div clasname="firstnameLastnameDate">
+
+//     <div classname="firstnameLastname">
+//         <div class="firstname"></div>
+//         <div class="lastname"></div>
+//     </div>
+//     <div class="date"></div>
+
+// </div>
+
+// </div>
+
+
+
+// .firstnameLastname {
+// greaterthan 480px {
+//     flex-direction: row
+// }
+// }
+
+// .firstnameLastnameDate {
+//  greaterthan 1080px {
+//     flex-direction: row
+// }
+// }
